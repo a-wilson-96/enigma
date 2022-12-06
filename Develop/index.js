@@ -14,6 +14,8 @@ ${description}
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 

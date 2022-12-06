@@ -1,8 +1,8 @@
-# Module 9
+# README Generator
 
 ## Description
 
-This module will make a readme file
+This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. This is the Description. 
 
 ## Table of Contents
 
@@ -10,14 +10,16 @@ This module will make a readme file
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
-enter 'node index.js' to begin
+*Installation instructions*
 
 ## Usage
 
-it is used to make a readmefile for repositories
+Usage information.
 
 
 ## Credits
@@ -30,10 +32,10 @@ UNLICENSED
 
 ## Tests
 
-none
+*Tests*
 
 ## Questions
 
-myemail
-mygithub
+myemail@myemail.com
+awilson93
 
